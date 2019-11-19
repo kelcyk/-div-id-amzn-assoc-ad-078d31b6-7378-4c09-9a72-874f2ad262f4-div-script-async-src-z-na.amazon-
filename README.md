@@ -5,7 +5,9 @@ You can use the [editor on GitHub](https://github.com/kelcyk/-div-id-amzn-assoc-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+>git orphen branch
+>gitcheckout--gh--Pages
+>echo here is the same web echohereissomewebcontent
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
